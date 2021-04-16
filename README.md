@@ -8,4 +8,10 @@ select new repository
 give your repository a name 
 click the check box "add readme"
 create repository
-go to codes
+go to codes at the left of your page
+click on it there you will see a link to that repo
+copy and share
+if you are unable to see this after creating a repo
+go to your profile and click on the repo name you will see the code with a down arrow 
+click it and get the repo link
+share

@@ -1,17 +1,37 @@
 # python4Dev
 
+Github and Git
+This is recommended for those who have PCs
 
-to create a repository on github do:
-login into your github account 
-click on the profile pic and a drop down menu will fall or on pc click on a plus button beside your profile pic
-select new repository
-give your repository a name 
-click the check box "add readme"
-create repository
-go to codes at the left of your page
-click on it there you will see a link to that repo
-copy and share
-if you are unable to see this after creating a repo
-go to your profile and click on the repo name you will see the code with a down arrow 
-click it and get the repo link
-share
+Git is a version control system which keeps tracks of the changea you made
+to a project
+
+Github is a plateform where git tracks can be stored 
+Either for your self or for others to see and contribute
+
+To work on local git
+
+First create a repo on github
+
+Secondly connect your github to your working environment
+
+Go to codes where there's an arrow pointing down(on computers) you will see your
+Repo link copy it
+
+Use the command on your local working environment to pull request
+git clone <paste repo link>
+
+The git repo and its content will appear on your working env
+Open it and write codes
+
+Use git add .   to add changes dont forget the full stop in the command
+ 
+Use git status to view the changes made
+
+Next generate ssh key from your computers << optional
+
+Or click on git on your working env and push commit changes
+
+Push the changes to you github
+
+Please watch videos on git push and pull request

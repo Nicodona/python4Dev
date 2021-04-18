@@ -19,7 +19,7 @@ Go to codes where there's an arrow pointing down(on computers) you will see your
 Repo link copy it
 
 Use the command on your local working environment to pull request
-git clone <paste repo link>
+git clone "paste repo link"
 
 The git repo and its content will appear on your working env
 Open it and write codes

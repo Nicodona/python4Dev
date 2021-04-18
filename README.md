@@ -30,6 +30,12 @@ Use git status to view the changes made
 
 Next generate ssh key from your computers << optional
 
+You can commit by typing the command
+
+Git commit "filename" -m "write reason for commit" -m " description"
+
+Git push remote main. To push your commits to github
+
 Or click on git on your working env and push commit changes
 
 Push the changes to you github
